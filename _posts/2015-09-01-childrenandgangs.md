@@ -3,7 +3,7 @@ layout: post
 title: "Children and Gangs"
 date: 2015-09-01
 categories: ["politics and society"]
-author: "Brody Barnhill, Kither Bilal, Chika Atako, Jimmy Huang, Simar Singh"
+author: "Brody Barnhill, Kither Bilal, C.A., Jimmy Huang, Simar Singh"
 lat: 33.938636
 lng: -118.238043
 collectiontitle: "UCLA Library Special Collections"
